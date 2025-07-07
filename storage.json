@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "pradeep"
+    },
+    {
+      "id": "7013825277",
+      "username": "pradeep",
+      "mobile": "7013825277",
+      "password": "pradeep@456",
+      "email": "ganeshampradeep875@gmail.com"
+    },
+    {
+      "id": "7013825278",
+      "username": "pradeep",
+      "mobile": "7013825278",
+      "password": "pradeep@456",
+      "email": "ganeshampradeep875@gmail.com"
+    },
+    {
+      "id": "7093703875",
+      "username": "pradeep",
+      "mobile": "7093703875",
+      "password": "pradeep@456",
+      "email": "ganeshampradeep875@gmail.com"
+    },
+    {
+      "id": "7013825274",
+      "username": "pradeep",
+      "mobile": "7013825274",
+      "password": "pradeep@456",
+      "email": "ganeshampradeep875@gmail.com"
+    },
+    {
+      "id": "7013825787",
+      "username": "pradeep",
+      "mobile": "7013825787",
+      "password": "pradeep@456",
+      "email": "ganeshampradeep875@gmail.com"
+    },
+    {
+      "id": "7013825782",
+      "username": "pradeep",
+      "mobile": "7013825782",
+      "password": "pradeep@456",
+      "email": ".com"
+    }
+  ]
+}
